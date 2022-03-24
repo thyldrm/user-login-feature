@@ -1,1 +1,3 @@
-# user-login-feature
+## Getting Started
+### `npm i`
+### `npm start`
